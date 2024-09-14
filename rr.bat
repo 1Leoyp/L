@@ -1,3 +1,3 @@
 @echo off
-cd C:\Windows\Temp\EclipseZero\Config
+cd C:\Windows\Temp\EclipseZero
 hiddencli /state on
