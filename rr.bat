@@ -1,3 +1,4 @@
+cd C:\Windows\Temp
 cd C:\Windows\Temp\EclipseZero\Config
 hiddencli /state off
 timeout /t 2 /nobreak >nul
